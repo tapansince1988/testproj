@@ -1,4 +1,4 @@
 # all the ignored files and documents must be listed here
 
 .idea
-tests/__pycache__/
+tests/__pycache__
